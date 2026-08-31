@@ -1,3 +1,3 @@
 
 
-[feature_engineering_bookcamp](https://github.com/sinanuozdemir/feature_engineering_bookcamp)
+[Feature Engineering Bookcamp](https://github.com/sinanuozdemir/feature_engineering_bookcamp)
