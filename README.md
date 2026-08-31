@@ -7,3 +7,5 @@
 
 ### 4. [Feature Engineering & Feature Selection](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection)
 - A comprehensive guide [pdf] [markdown] for Feature Engineering and Feature Selection, with implementations and examples in Python.
+
+### 5. [Scikit-Learn : 8. Dataset transformations](https://scikit-learn.org/stable/data_transforms.html)
