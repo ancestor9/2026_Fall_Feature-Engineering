@@ -3,6 +3,7 @@
 - Deliver huge improvements to your machine learning pipelines without spending hours fine-tuning parameters! This book’s practical case studies reveal feature engineering techniques that upgrade your data wrangling—and your ML results.
 
 #### 2. [Feature Engineering for Machine Learning](https://github.com/alicezheng/feature-engineering-book)
+- Feature Engineering for ­Machine Learning Principles and Techniques for Data Scientists
 
 #### 3. [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://feat.engineering/)
 
